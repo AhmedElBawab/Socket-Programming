@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574259671 source:/home/ahmed/Desktop/Programming Assignment 1/server/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<sys/wait.h>
+	<signal.h>
+
